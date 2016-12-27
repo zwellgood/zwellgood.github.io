@@ -107,7 +107,7 @@
         /**
          * This fixes a bug where the areas left and right to
          * the content does not trigger the onmousewheel event
-         * on some pages. e.g.: html, body { height: 100% }
+         * on some report. e.g.: html, body { height: 100% }
          */
         else if (scrollHeight > windowHeight &&
             (body.offsetHeight <= windowHeight ||
